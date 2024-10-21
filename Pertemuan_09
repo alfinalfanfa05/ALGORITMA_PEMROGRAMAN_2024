@@ -1,0 +1,19 @@
+# Program untuk daftar nama produk beserta harganya
+# String
+nama = "Rokok"
+merk = "Marlboro"
+harga = "40.000"
+hasil_string = "Nama: " + nama + ",Merk: " + merk + ",Harga: " + harga
+# String
+nama = "Rokok"
+merk = "LA"
+harga = "38000"
+hasil_string1 = "Nama: " + nama + ",Merk: " + merk + ",Harga: " + harga
+# String
+nama = "Rokok"
+merk = "Lucky Strike"
+harga = "32000"
+hasil_string2 = "Nama: " + nama + ",Merk :" + merk + ",Harga: " + harga
+print("Daftar produk:",hasil_string)
+print("Daftar produk:",hasil_string1)
+print("Daftar produk:",hasil_string2)
